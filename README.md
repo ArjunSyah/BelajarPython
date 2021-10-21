@@ -16,5 +16,5 @@ print = ("Jadi Nama Kamu Adalah",nama)
 - sama halnya seperti yang di atas apabila data yang kita ingin print itu bertype string, selalu di awali dengan tanda kurung, dilanjutkan tanda petik dua didalamnya. karna kita juga akan menampilkan data yang kita input kita masukan juga variable "nama" dengan di awali tanda koma sebelumnya.
 
 ### Contoh Gambaran Output yang sudah Saya Program
-![Gambar 1](ssan/ss1.png)
+![Gambar 1](ssan/ss1.png.png)
 
